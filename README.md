@@ -1,14 +1,14 @@
 # CMPSC 100-03 Practical Session 9
 
+* Assigned: Friday, 25 October, 2019: 11:00 AM
+* Due: Friday, 28 October, 2019: 11:59 PM
+* Point value: 20 points
+
 We revisit our gator friend to see that he's preparing for a nationally-televised test. This practical will deepen your experience with:
 * `while` loops
 * `if` statements
 * The `%` (modulo) operator
 * Problem-solving
-
-* Assigned: Friday, 25 October, 2019: 11:00 AM
-* Due: Friday, 28 October, 2019: 11:59 PM
-* Point value: 20 points
 
 ## General guidelines for this particular practical session
 
